@@ -5,3 +5,4 @@ _____________________________________
 Current Levels:
 * Python - Fundamentals
 * JavaScript - Basics
+* Accounting - Advanced
