@@ -6,5 +6,3 @@ Current Levels:
 * Python - Fundamentals
 * JavaScript - Basics
 * Accounting - Advanced
-
-* farming
