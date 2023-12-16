@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Accounting in UNWE Sofia and Programming in SoftUni
 _____________________________________
 Current Levels:
-* Python - Fundamentals
+* Python - Advanced
 * JavaScript - Basics
 * Accounting - Advanced
