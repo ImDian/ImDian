@@ -4,5 +4,8 @@
 _____________________________________
 Current Levels:
 * Python - Advanced
+* Django - Advanced
+* HTML - Basics
+* CSS - Basics
 * JavaScript - Basics
 * Accounting - Advanced
